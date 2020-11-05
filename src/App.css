@@ -6,6 +6,12 @@
   height: 40vmin;
   pointer-events: none;
 }
+.avatar{
+  background-color:"theme.palette.secondary.main";
+  margin: "theme.spacing(1)",
+
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -27,6 +33,10 @@
 .App-link {
   color: #61dafb;
 }
+/* loginform css */
+
+/* loginform css */
+
 
 @keyframes App-logo-spin {
   from {
